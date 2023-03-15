@@ -3,6 +3,8 @@ public class multiply {
         int a=10;
         int b=20;
 
+	  System.out.println();
+
         System.out.println("Multiplication is : "+(a*b));
     }
 }
