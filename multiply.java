@@ -4,6 +4,7 @@ public class multiply {
         int b=20;
 
 	  System.out.println();
+	  System.out.println();
 
         System.out.println("Multiplication is : "+(a*b));
     }
