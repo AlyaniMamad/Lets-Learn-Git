@@ -2,4 +2,4 @@
 Learning git
 We are learning git
 
-lets
+lets do
