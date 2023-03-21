@@ -1,5 +1,6 @@
 class ok{
-    ok(){
+    ok()
+    {
         System.out.println("This is ok");
     }
 }
