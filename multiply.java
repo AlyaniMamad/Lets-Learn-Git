@@ -7,5 +7,6 @@ public class multiply {
 	  System.out.println();
 
         System.out.println("Multiplication is : "+(a*b));
+	    finally
     }
 }
