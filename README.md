@@ -1,5 +1,5 @@
 # Lets-Learn-Git
-Learning git
+- Learning git
 # We are learning git
 
 lets do it
