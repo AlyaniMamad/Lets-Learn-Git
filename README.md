@@ -2,6 +2,6 @@
 - Learning git
 # We are learning git
 
-lets do it
+- lets do it
 
 hi
